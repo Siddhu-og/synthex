@@ -1,3 +1,5 @@
+[![Latest Release](https://img.shields.io/github/v/release/Siddhu-og/synthex)](https://github.com/USERNAME/REPO/releases)
+
 <img width="1536" height="1024" alt="ChatGPT Image Apr 17, 2025, 08_31_22 PM" src="https://github.com/user-attachments/assets/ec764928-1b42-4bf0-b5c5-01dd44ad9ef9" />
 
 # **SYNTHEX PRIME V5 — ULTIMATE SELFBOT**
@@ -233,4 +235,13 @@ No hard-coded junk.
 This project is provided **as-is** for educational purposes only.
 The developer is **not responsible** for bans, account actions, or misuse.
 Using selfbots violates Discord’s Terms of Service.
+
+## 📦 Releases
+
+Latest stable release:  
+➡️ https://github.com/Siddhu-og/synthex/releases/latest
+
+All releases & changelogs:  
+➡️ https://github.com/Siddhu-og/synthex/releases
+
 

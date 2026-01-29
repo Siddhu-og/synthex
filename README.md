@@ -1,4 +1,5 @@
-<img width="256" height="256" alt="8f6ebc6acb9b392c362acb7c15cfe6fa" src="https://github.com/user-attachments/assets/2a09bc1c-d2c7-49f0-b7b7-9fc05cc3f4ae" />
+![Uploading ChatGPT Image Apr 17, 2025, 08_31_22 PM.png…]()
+
 # **SYNTHEX PRIME V5 — ULTIMATE SELFBOT**
 
 > ⚡ **The most powerful and feature-rich Discord selfbot with 500+ commands**

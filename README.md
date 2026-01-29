@@ -1,4 +1,4 @@
-![Uploading ChatGPT Image Apr 17, 2025, 08_31_22 PM.png…]()
+<img width="1536" height="1024" alt="ChatGPT Image Apr 17, 2025, 08_31_22 PM" src="https://github.com/user-attachments/assets/ec764928-1b42-4bf0-b5c5-01dd44ad9ef9" />
 
 # **SYNTHEX PRIME V5 — ULTIMATE SELFBOT**
 

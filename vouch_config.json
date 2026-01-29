@@ -1,0 +1,8 @@
+{
+    "cvouch_format": "+rep {User_Id} LEGIT SELLER | GOT {product} for [ {price} ] \u2022 TYSM",
+    "custom_vouches": {},
+    "vouch_format": "+rep {User_Id} LEGIT SELLER | GOT {main} \u2022 TYSM",
+    "vouch_msg": "VOUCH ME HERE",
+    "exch_format": "+rep {User_Id} LEGIT | EXCHANGED {main} \u2022 TYSM",
+    "exch_msg": "PLEASE VOUCH ME HERE"
+}
